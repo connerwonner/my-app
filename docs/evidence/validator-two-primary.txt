@@ -1,0 +1,8 @@
+
+> my-app@0.1.0 validate
+> node scripts/validate.mjs tests/fixtures/invalid-two-primary.json
+
+FAIL PROP-0001
+   more than one primary sponsor
+
+0/1 records valid

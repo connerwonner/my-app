@@ -1,0 +1,11 @@
+
+> my-app@0.1.0 validate
+> node scripts/validate.mjs data/generated/run-01.raw.json
+
+PASS PROP-0001
+PASS PROP-0002
+PASS PROP-0003
+PASS PROP-0004
+PASS PROP-0005
+
+5/5 records valid
