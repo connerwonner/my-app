@@ -1,0 +1,108 @@
+{
+  "listings": [
+    {
+      "property_id": "PROP-0001",
+      "address": {
+        "street": "123 Maple Court",
+        "city": "Springfield",
+        "state": "OH",
+        "zip_code": "45501"
+      },
+      "price": 425000,
+      "bedrooms": 3,
+      "bathrooms": 2.0,
+      "square_feet": 1450,
+      "amenities": ["garage", "garden"],
+      "local_sponsors": [
+        {
+          "sponsor_id": "SPN-001",
+          "name": "Springfield Home Inspection",
+          "category": "inspection",
+          "placement": "primary"
+        }
+      ]
+    },
+    {
+      "property_id": "PROP-0002",
+      "address": {
+        "street": "88 Harbor View Dr",
+        "unit": "4B",
+        "city": "Portside",
+        "state": "CA",
+        "zip_code": "90731"
+      },
+      "price": 210000,
+      "bedrooms": 2,
+      "bathrooms": 1.0,
+      "square_feet": 900,
+      "amenities": ["balcony", "fitness_center", "pet_friendly"],
+      "local_sponsors": []
+    },
+    {
+      "property_id": "PROP-0003",
+      "address": {
+        "street": "7 Ridge Road",
+        "city": "Aspen Falls",
+        "state": "CO",
+        "zip_code": "81611"
+      },
+      "price": 689000,
+      "bedrooms": 5,
+      "bathrooms": 3.5,
+      "square_feet": 3200,
+      "amenities": ["pool", "fireplace", "central_air", "hardwood_floors"],
+      "local_sponsors": [
+        {
+          "sponsor_id": "SPN-002",
+          "name": "Aspen Mountain Mortgages",
+          "category": "mortgage",
+          "placement": "primary"
+        },
+        {
+          "sponsor_id": "SPN-003",
+          "name": "Luxury Movers",
+          "category": "moving",
+          "placement": "secondary"
+        }
+      ]
+    },
+    {
+      "property_id": "PROP-0004",
+      "address": {
+        "street": "400 Main Street",
+        "unit": "12",
+        "city": "Lakeside",
+        "state": "MI",
+        "zip_code": "49401"
+      },
+      "price": 155000,
+      "bedrooms": 1,
+      "bathrooms": 1.0,
+      "square_feet": 650,
+      "amenities": ["in_unit_laundry"],
+      "local_sponsors": [
+        {
+          "sponsor_id": "SPN-004",
+          "name": "Lakeside Insurance Group",
+          "category": "insurance",
+          "placement": "primary"
+        }
+      ]
+    },
+    {
+      "property_id": "PROP-0005",
+      "address": {
+        "street": "56 Oak Lane",
+        "city": "Maplewood",
+        "state": "TX",
+        "zip_code": "75001"
+      },
+      "price": 335500,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "square_feet": 2100,
+      "amenities": ["garage", "central_air", "garden"],
+      "local_sponsors": []
+    }
+  ]
+}

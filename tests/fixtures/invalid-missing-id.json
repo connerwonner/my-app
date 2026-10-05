@@ -1,0 +1,11 @@
+{
+  "address": { "street": "123 Maple Court", "city": "Springfield", "state": "OH", "zip_code": "45501" },
+  "price": 425000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "square_feet": 1450,
+  "amenities": ["garage"],
+  "local_sponsors": [
+    { "sponsor_id": "SPN-001", "name": "Maple Mortgage Co", "category": "mortgage", "placement": "primary" }
+  ]
+}
